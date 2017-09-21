@@ -5,4 +5,5 @@ select * from stusers
 stusers
 data, sys
 基础表，单据表，帐本表；视图，查询，统计分析
+在电脑上编辑，在手机上看，这样挺好。
 */
