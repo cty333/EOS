@@ -1,0 +1,2 @@
+--example
+select * from stusers
